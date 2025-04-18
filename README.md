@@ -140,7 +140,3 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 ## 💬 Let's Connect
 
 If you liked the project, feel free to give it a ⭐ and follow for more!
-
----
-
-Would you like me to generate the `requirements.txt` file or the GIF demo snippet as well?
